@@ -14623,5 +14623,18 @@
     "start_date_local": "2026-03-26T11:53:31Z",
     "type": "Swim",
     "year": 2026
+  },
+  {
+    "date": "2026-03-27",
+    "distance": 2228.1,
+    "elevation_gain": 11.0,
+    "id": "17879426047",
+    "moving_time": 1710.0,
+    "name": "Afternoon Hike",
+    "raw_activity_type": "Hike",
+    "raw_type": "Hike",
+    "start_date_local": "2026-03-27T13:13:11Z",
+    "type": "Hike",
+    "year": 2026
   }
 ]
