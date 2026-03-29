@@ -14636,5 +14636,18 @@
     "start_date_local": "2026-03-27T13:13:11Z",
     "type": "Hike",
     "year": 2026
+  },
+  {
+    "date": "2026-03-28",
+    "distance": 3456.4,
+    "elevation_gain": 17.7,
+    "id": "17893969795",
+    "moving_time": 349.0,
+    "name": "Afternoon Run 2.1 miles",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-03-28T17:54:26Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
