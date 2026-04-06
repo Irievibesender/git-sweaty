@@ -14727,5 +14727,44 @@
     "start_date_local": "2026-04-04T13:39:13Z",
     "type": "VirtualRide",
     "year": 2026
+  },
+  {
+    "date": "2026-04-05",
+    "distance": 2244.7,
+    "elevation_gain": 22.0,
+    "id": "17990757548",
+    "moving_time": 1600.0,
+    "name": "Lunch Hike",
+    "raw_activity_type": "Hike",
+    "raw_type": "Hike",
+    "start_date_local": "2026-04-05T12:09:13Z",
+    "type": "Hike",
+    "year": 2026
+  },
+  {
+    "date": "2026-04-05",
+    "distance": 2323.7,
+    "elevation_gain": 2.2,
+    "id": "17990843948",
+    "moving_time": 1177.0,
+    "name": "Jason took Kali Calypso for a walk with her Fi Smart Collar",
+    "raw_activity_type": "Walk",
+    "raw_type": "Walk",
+    "start_date_local": "2026-04-05T12:10:11Z",
+    "type": "Walk",
+    "year": 2026
+  },
+  {
+    "date": "2026-04-05",
+    "distance": 2323.7,
+    "elevation_gain": 2.2,
+    "id": "17990843949",
+    "moving_time": 1178.0,
+    "name": "Jason took Zombie for a walk with his Fi Smart Collar",
+    "raw_activity_type": "Walk",
+    "raw_type": "Walk",
+    "start_date_local": "2026-04-05T12:08:54Z",
+    "type": "Walk",
+    "year": 2026
   }
 ]
