@@ -7972,6 +7972,27 @@
       "subtype": "Walk",
       "type": "Walk",
       "year": 2026
+    },
+    {
+      "date": "2026-04-11",
+      "hour": 18,
+      "subtype": "Hike",
+      "type": "Hike",
+      "year": 2026
+    },
+    {
+      "date": "2026-04-11",
+      "hour": 18,
+      "subtype": "Walk",
+      "type": "Walk",
+      "year": 2026
+    },
+    {
+      "date": "2026-04-11",
+      "hour": 18,
+      "subtype": "Walk",
+      "type": "Walk",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -17228,6 +17249,15 @@
           "distance": 2396.7,
           "elevation_gain": 9.0,
           "moving_time": 1800.0
+        },
+        "2026-04-11": {
+          "activity_ids": [
+            "18072584143"
+          ],
+          "count": 1,
+          "distance": 2394.7,
+          "elevation_gain": 6.0,
+          "moving_time": 2001.0
         }
       },
       "Run": {
@@ -17559,11 +17589,21 @@
           "distance": 5159.700000000001,
           "elevation_gain": 4.0,
           "moving_time": 2878.0
+        },
+        "2026-04-11": {
+          "activity_ids": [
+            "18072604473",
+            "18072610593"
+          ],
+          "count": 2,
+          "distance": 5431.5,
+          "elevation_gain": 4.0,
+          "moving_time": 3226.0
         }
       }
     }
   },
-  "generated_at": "2026-04-11T15:34:26.650934+00:00",
+  "generated_at": "2026-04-12T15:35:56.558610+00:00",
   "other_bucket": "OtherSports",
   "repo": "Irievibesender/git-sweaty",
   "source": "strava",
