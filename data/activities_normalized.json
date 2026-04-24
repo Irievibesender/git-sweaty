@@ -14935,5 +14935,31 @@
     "start_date_local": "2026-04-19T16:06:47Z",
     "type": "Walk",
     "year": 2026
+  },
+  {
+    "date": "2026-04-23",
+    "distance": 1870.3,
+    "elevation_gain": 12.0,
+    "id": "18233081759",
+    "moving_time": 1395.0,
+    "name": "Evening Hike",
+    "raw_activity_type": "Hike",
+    "raw_type": "Hike",
+    "start_date_local": "2026-04-23T18:56:24Z",
+    "type": "Hike",
+    "year": 2026
+  },
+  {
+    "date": "2026-04-23",
+    "distance": 1830.9,
+    "elevation_gain": 0.0,
+    "id": "18233128992",
+    "moving_time": 620.0,
+    "name": "Jason took Kali Calypso for a walk with her Fi Smart Collar",
+    "raw_activity_type": "Walk",
+    "raw_type": "Walk",
+    "start_date_local": "2026-04-23T18:56:08Z",
+    "type": "Walk",
+    "year": 2026
   }
 ]
