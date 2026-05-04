@@ -14974,5 +14974,31 @@
     "start_date_local": "2026-04-28T16:43:14Z",
     "type": "Hike",
     "year": 2026
+  },
+  {
+    "date": "2026-05-03",
+    "distance": 14831.9,
+    "elevation_gain": 64.0,
+    "id": "18366479775",
+    "moving_time": 2055.0,
+    "name": "Zwift - Zwift Pro Training Camp: Movistar | Sara Martin",
+    "raw_activity_type": "VirtualRide",
+    "raw_type": "VirtualRide",
+    "start_date_local": "2026-05-03T18:54:19Z",
+    "type": "VirtualRide",
+    "year": 2026
+  },
+  {
+    "date": "2026-05-03",
+    "distance": 2213.4,
+    "elevation_gain": 8.0,
+    "id": "18366765477",
+    "moving_time": 1553.0,
+    "name": "Evening Hike",
+    "raw_activity_type": "Hike",
+    "raw_type": "Hike",
+    "start_date_local": "2026-05-03T19:58:12Z",
+    "type": "Hike",
+    "year": 2026
   }
 ]
