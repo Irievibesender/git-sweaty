@@ -15013,5 +15013,18 @@
     "start_date_local": "2026-05-06T17:39:37Z",
     "type": "Hike",
     "year": 2026
+  },
+  {
+    "date": "2026-05-13",
+    "distance": 20613.4,
+    "elevation_gain": 83.0,
+    "id": "18496398923",
+    "moving_time": 2748.0,
+    "name": "Zwift - Get In the Zone",
+    "raw_activity_type": "VirtualRide",
+    "raw_type": "VirtualRide",
+    "start_date_local": "2026-05-13T16:15:50Z",
+    "type": "VirtualRide",
+    "year": 2026
   }
 ]
