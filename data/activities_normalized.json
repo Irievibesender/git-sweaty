@@ -15104,5 +15104,31 @@
     "start_date_local": "2026-05-18T19:13:51Z",
     "type": "Walk",
     "year": 2026
+  },
+  {
+    "date": "2026-05-20",
+    "distance": 2165.5,
+    "elevation_gain": 4.0,
+    "id": "18589342657",
+    "moving_time": 1476.0,
+    "name": "Evening Hike",
+    "raw_activity_type": "Hike",
+    "raw_type": "Hike",
+    "start_date_local": "2026-05-20T19:13:32Z",
+    "type": "Hike",
+    "year": 2026
+  },
+  {
+    "date": "2026-05-21",
+    "distance": 13425.0,
+    "elevation_gain": 148.0,
+    "id": "18596466708",
+    "moving_time": 2047.0,
+    "name": "Zwift - INEOS Grenadiers Virtual Training Camp | The Cafe Ride",
+    "raw_activity_type": "VirtualRide",
+    "raw_type": "VirtualRide",
+    "start_date_local": "2026-05-21T09:44:45Z",
+    "type": "VirtualRide",
+    "year": 2026
   }
 ]
