@@ -15299,5 +15299,18 @@
     "start_date_local": "2026-06-10T17:04:02Z",
     "type": "Walk",
     "year": 2026
+  },
+  {
+    "date": "2026-06-13",
+    "distance": 10894.1,
+    "elevation_gain": 37.0,
+    "id": "18907920131",
+    "moving_time": 1819.0,
+    "name": "Zwift - Renewal",
+    "raw_activity_type": "VirtualRide",
+    "raw_type": "VirtualRide",
+    "start_date_local": "2026-06-13T13:24:16Z",
+    "type": "VirtualRide",
+    "year": 2026
   }
 ]
