@@ -8273,6 +8273,27 @@
       "subtype": "VirtualRide",
       "type": "VirtualRide",
       "year": 2026
+    },
+    {
+      "date": "2026-06-25",
+      "hour": 22,
+      "subtype": "Walk",
+      "type": "Walk",
+      "year": 2026
+    },
+    {
+      "date": "2026-06-26",
+      "hour": 12,
+      "subtype": "Hike",
+      "type": "Hike",
+      "year": 2026
+    },
+    {
+      "date": "2026-06-26",
+      "hour": 12,
+      "subtype": "Walk",
+      "type": "Walk",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -17675,6 +17696,15 @@
           "distance": 2144.6,
           "elevation_gain": 8.0,
           "moving_time": 1561.0
+        },
+        "2026-06-26": {
+          "activity_ids": [
+            "19076205400"
+          ],
+          "count": 1,
+          "distance": 1429.2,
+          "elevation_gain": 4.0,
+          "moving_time": 1081.0
         }
       },
       "Run": {
@@ -18177,11 +18207,29 @@
           "distance": 4310.799999999999,
           "elevation_gain": 4.6,
           "moving_time": 2898.0
+        },
+        "2026-06-25": {
+          "activity_ids": [
+            "19076250670"
+          ],
+          "count": 1,
+          "distance": 1639.9,
+          "elevation_gain": 2.7,
+          "moving_time": 902.0
+        },
+        "2026-06-26": {
+          "activity_ids": [
+            "19076250448"
+          ],
+          "count": 1,
+          "distance": 1811.7,
+          "elevation_gain": 2.7,
+          "moving_time": 920.0
         }
       }
     }
   },
-  "generated_at": "2026-06-26T17:00:38.139356+00:00",
+  "generated_at": "2026-06-27T16:04:20.356260+00:00",
   "other_bucket": "OtherSports",
   "repo": "Irievibesender/git-sweaty",
   "source": "strava",
